@@ -1,0 +1,36 @@
+.navbar{
+    background-color: gray;
+}
+.container{
+
+}
+.actualizar{
+    margin-bottom: 5%;
+}
+.carousel{
+    height: 10%;
+    width: 60%;
+    align-items: center;
+}
+.cards{
+    display: flex;
+    
+}
+.background-image {
+    background: url('../img/fondo.jpg') no-repeat center center fixed;
+    background-size: cover;
+    height: 100vh;
+    margin: 0;
+    align-items: center;
+    justify-content: center;
+}
+.Elemento{
+    color: white;
+}
+.imagen{
+    width: 10%;
+}
+.grupo{
+    display: flex;
+    margin: 5%;
+}
